@@ -37,8 +37,3 @@ Salida:
 - HTML5
 - JavaScript
 
-
-
-## Autor
-
-Andrea Pérez
